@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+header{
+    padding: 50px 0 448px 49px;
+    background: url(../img/DxRqwcyX0AAnta8.png)no-repeat center/cover;
+    
+    
+}
+
+h5{
+    color: darkgray;
+    text-align: center;
+    font-size: 22px;
+    padding:43px ;
+}
+
+h4{
+    text-align: center;
+    
+    
+}
+
+img{
+    width: 100%;
+    
+}
+
+.container-my{
+    max-width: 1900px !important;
+}
+
+.logos-block img{}
+   
+
+footer{
+    color: #fff;
+ background: url(../img/Background\ copy.png)no-repeat center/cover;   
+    padding: 13px 534px 13px 534px;
+
+}
+
+footer p{
+    
+    text-align: center;
+    
+}
